@@ -1,66 +1,68 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# INFO-3305_sport
+GROUP PROJECT <br>
+Group 4
+|            Name                 | Matric No |
+| ------------------------------- | --------- |
+| Muhammad Azim Aizat bin Adnan   | 2115493   |
+| Muhammad Mujahid bin Mahazanan  | 2119989   |
+| Muhammad Nabil Syahmi bin Zaini | 2110401   |
+| Muhammad Zulhilmi bin Mohammed Zerain   | 2113533  |
+| Mohamad Nasurudeen Bin Shaik Abdullah   | 2124091  |
+| Muhammad Khairul Ikhwan Bin Mohd Iqbal  | 2110753  | <br><br><br>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
-## About Laravel
+<p align="center"> 
+<strong>TITLE OF THE PROJECT</strong> <br> 
+<strong>IIUM FUTSAL</strong>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<p align="center"> Introduction: <br>
+  
+Welcome to the IIUM Futsal Web Application, a game-changing tool that has been carefully designed to be more than just a digital area. It reflects the balance that exists between our passion for futsal and our unshakable dedication to Shariah compliance. This application, as the beating heart of the International Islamic University Malaysia (IIUM) futsal community, goes on a quest to unite enthusiasts while preserving Islamic ethical norms. <br> 
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+In a world where connectivity is vital, the IIUM Futsal Web Application serves as a hub for futsal enthusiasts, providing an immersive experience that is consistent with Shariah principles. Every aspect of our digital area is built with a continuous commitment to ethical and Islamic values, whether you're looking for the latest information, participating in community conversations, or researching the rich history of IIUM futsal. <br>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+At the heart of our mission is a commitment to Shariah compliance that extends beyond the traditional limitations of sports platforms. The IIUM Futsal Web Application promotes the concept that passion and principles may coexist. Join us in this digital domain where futsal passion meets the timeless wisdom of Shariah, creating a venue that not only celebrates the sport but also fosters a sense of community through Islamic ideals. <br>
 
-## Learning Laravel
+<p align="center"> Objective: <br>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+The IIUM Futsal Web Application has been intentionally designed to serve as the key center for the International Islamic University Malaysia (IIUM) futsal community. Our major goal is to build a sense of community and togetherness among futsal lovers by providing a dedicated online space for connection, engagement, and the shared celebration of futsal enthusiasm. <br> 
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+The website also seeks to be a credible source of information, providing real-time updates, news, and events about IIUM futsal to keep the community informed and interested. Our aim includes the promotion of ethical athletic values based on Islamic teachings and sportsmanship. The website facilitates transparent and Shariah-compliant online transactions for the purchase of official IIUM Futsal products and event tickets, with financial transparency being a key focus. The money will be given to the needy. We also have a donation page for people to donate to the ones in need. <br> 
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
+<strong>Features and functionalities</strong> <br>
+- Admin 
+<br> Admin can look at the records and make changes to the site. <br>
+- Sign up/Log in 
+<br> Users can sign up to the website and log in if they already created one. <br>
+- Merchandise/Product
+<br> Users can utilize this app to view and purchase official IIUM Futsal products online. It is a user-friendly e-commerce platform that displays various futsal-related products while encouraging team spirit and solidarity among supporters. <br>
+- Player
+<br> Explore profiles of IIUM futsal players to learn more about their abilities, accomplishments, and contributions to the team. Individual player profiles contain complete information, allowing fans to engage with the players representing IIUM. <br>
+- About Us
+<br> Provides a thorough explanation of IIUM Futsal, including its history, mission, and vision. A part dedicated to providing background information and increasing awareness and admiration for the team and its goals. <br>
+- News
+<br> Keeps users up to date on the newest IIUM Futsal news, activities, and advancements. Real-time news stream that includes articles, announcements, and event coverage to keep the community informed and involved. <br>
+- Donation
+<br> In conformity with Islamic ideals, it facilitates charitable contributions for the benefit of the less fortunate. It is a safe donation platform that guarantees openness, accountability, and the ability to give to worthwhile causes. <br>
+- Ticket
+<br> Users can buy tickets for IIUM Futsal events and matches. It is a user-friendly ticketing system with safe online transactions that promotes event accessibility and community participation.
+- Standing/Match
+<br> Updates futsal league standings, player data, and match results in real time. Dynamic charts and tables display the team's performance and league standing, keeping spectators involved and informed about the competitive side of futsal. <br> 
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+<strong>Entity Relationship Diagram</strong> <br>
+![Screenshot 2023-12-29 213000](https://github.com/Azimaizat02/INFO-3305_sport/assets/31058112/5fdb8f23-b74e-482b-bf26-17dc1bfba481)
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+<strong>Sequence diagram</strong> <br>
+<img src="webapp-login.jpg">
+<img src="webapp-ticket.jpg">
+<img src="webapp-merchandise.jpg">
+<img src="webapp-donation.jpg">
+<img src="admin [MConverter.eu].jpg">
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<strong>References</strong> <br>
+Chelsea official page: <br>
+https://www.chelseafc.com/en/ <br>
+JDT official page: <br>
+https://johorsoutherntigers.my/ <br>
