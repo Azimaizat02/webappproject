@@ -17,7 +17,7 @@
 {
     display: inline-block;
     width: 200px;
-    color: white;
+    color: skyblue;
     font-size: 18px;
     font-weight: bold;
     padding: 30px;
