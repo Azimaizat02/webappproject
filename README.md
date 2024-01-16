@@ -61,6 +61,12 @@ The website also seeks to be a credible source of information, providing real-ti
 <img src="webapp-donation.jpg">
 <img src="admin [MConverter.eu].jpg">
 
+<strong>Mockup page</strong> <br>
+<img src="homepage.png">
+<img src="donation.png">
+<img src="player.png">
+
+
 <strong>References</strong> <br>
 Chelsea official page: <br>
 https://www.chelseafc.com/en/ <br>
