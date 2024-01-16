@@ -62,8 +62,11 @@ The website also seeks to be a credible source of information, providing real-ti
 <img src="admin [MConverter.eu].jpg">
 
 <strong>Mockup page</strong> <br>
+Homepage<br>
 <img src="homepage.png">
+Donation<br>
 <img src="donation.png">
+Player<br>
 <img src="player.png">
 
 
