@@ -1,2 +1,0 @@
-ikhwan test
-pull push
