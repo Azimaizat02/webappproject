@@ -72,34 +72,34 @@ Player<br>
 <strong>Project system captured screen and explanation</strong> <br>
 Homepage<br>
 On this page, users can see our header, footers, and a little bit of our content on the main page. The header consists of home, about us, merchandise, news, players, donation, login, register, and match. The user will need to log in to use the full functionality of our website. Overall, this page shows the overview of our website. <br>
-<img src="HOME.png">
+<img src="HOME.png">  <br>
 About Us<br>
 It tells what the website is. <br>
-<img src="ABOUTUS.png">
+<img src="ABOUTUS.png">  <br>
 Donation page<br>
 Users can see the donations of other users that have donated to our website. <br>
-<img src="DONATIONPAGE.png">
+<img src="DONATIONPAGE.png">  <br>
 Merch page<br>
 Users can buy our merch after logging in to our website. If not an error will occur. <br>
-<img src="MERCH.png">
+<img src="MERCH.png">  <br>
 User Donation page<br>
 Users can make their donation after logging in to our website. If not an error will occur. <br>
-<img src="USERDONATION.png">
+<img src="USERDONATION.png">  <br>
 News page<br>
 This page will tell the users about the latest news in the futsal community. <br>
-<img src="NEWS.png">
+<img src="NEWS.png">  <br>
 Match page<br>
 It contains the matches that will be held on a specific date. <br>
-<img src="MATCH.png">
+<img src="MATCH.png">  <br>
 Player page<br>
 The users can see the IIUM Players that represent the futsal team and their brief descriptions. <br>
-<img src="PLAYERPAGE.png">
+<img src="PLAYERPAGE.png">  <br>
 Admin page<br>
 A page that is only accessible by the admin. On this page, the admin can add, modify, and delete the contents of the website. <br>
-<img src="ADMIN.png">
+<img src="ADMIN.png">  <br>
 Edit and delete function<br>
 For example, this all-player page has the function to edit and delete the players that are in the database. it goes the same for others such as donations, news, merchandise, and matches. <br>
-<img src="EDITANDDELETE.png">
+<img src="EDITANDDELETE.png">  <br>
 
 <strong>What is the challenge/difficulties to develop the application</strong> <br>
 1. Testing:
