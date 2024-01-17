@@ -74,22 +74,22 @@ Player<br>
 <strong>What is the challenge/difficulties to develop the application</strong> <br>
 1. Testing:
 
-The challenge is to identify and resolve problems, ensure code quality, and conduct thorough testing.
+The challenge is to identify and resolve problems, ensure code quality, and conduct thorough testing.<br>
 Solution: Establish comprehensive testing procedures. Test everything after implementing the codes. <br>
 
 2. Scalability:
 
-The challenge is to ensure that the application can handle greater loads and data without compromising performance.
+The challenge is to ensure that the application can handle greater loads and data without compromising performance.<br>
 Solution: Always test for every coding done. <br>
 
 3. Designing the User Interface (UI) and User Experience (UX)
 
-Challenge: Creating an intuitive and user-friendly interface.
+Challenge: Creating an intuitive and user-friendly interface.<br>
 Solution: Involve UI/UX designers early in the process, test designs with users, and iterate on the results. <br>
 
 4. Technology issue:
 
-Challenge: Xampp was not functioning or the VSC was not loading.
+Challenge: Xampp was not functioning or the VSC was not loading.<br>
 Solution: Refer to videos and lecturers. <br>
 
 <strong>References</strong> <br>
