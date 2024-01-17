@@ -48,7 +48,7 @@ The website also seeks to be a credible source of information, providing real-ti
 - Ticket
 <br> Users can buy tickets for IIUM Futsal events and matches. It is a user-friendly ticketing system with safe online transactions that promotes event accessibility and community participation.
 - Standing/Match
-<br> Updates futsal league standings, player data, and match results in real time. Dynamic charts and tables display the team's performance and league standing, keeping spectators involved and informed about the competitive side of futsal. <br> 
+<br> Updates futsal league standings, player data, and match results in real-time. Dynamic charts and tables display the team's performance and league standing, keeping spectators involved and informed about the competitive side of futsal. <br> 
 
 <strong>Entity Relationship Diagram</strong> <br>
 ![Screenshot 2023-12-29 213000](https://github.com/Azimaizat02/INFO-3305_sport/assets/31058112/5fdb8f23-b74e-482b-bf26-17dc1bfba481)
@@ -69,6 +69,28 @@ Donation<br>
 Player<br>
 <img src="player.png">
 
+<strong>Project system captured screen and explanation</strong> <br>
+
+<strong>What is the challenge/difficulties to develop the application</strong> <br>
+1. Testing:
+
+The challenge is to identify and resolve problems, ensure code quality, and conduct thorough testing.
+Solution: Establish comprehensive testing procedures. Test everything after implementing the codes. <br>
+
+2. Scalability:
+
+The challenge is to ensure that the application can handle greater loads and data without compromising performance.
+Solution: Always test for every coding done. <br>
+
+3. Designing the User Interface (UI) and User Experience (UX)
+
+Challenge: Creating an intuitive and user-friendly interface.
+Solution: Involve UI/UX designers early in the process, test designs with users, and iterate on the results. <br>
+
+4. Technology issue:
+
+Challenge: Xampp was not functioning or the VSC was not loading.
+Solution: Refer to videos and lecturers. <br>
 
 <strong>References</strong> <br>
 Chelsea official page: <br>
