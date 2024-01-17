@@ -70,6 +70,36 @@ Player<br>
 <img src="player.png">
 
 <strong>Project system captured screen and explanation</strong> <br>
+Homepage<br>
+On this page, users can see our header, footers, and a little bit of our content on the main page. The header consists of home, about us, merchandise, news, players, donation, login, register, and match. The user will need to log in to use the full functionality of our website. Overall, this page shows the overview of our website. <br>
+<img src="HOME.png">
+About Us<br>
+It tells what the website is. <br>
+<img src="ABOUTUS.png">
+Donation page<br>
+Users can see the donations of other users that have donated to our website. <br>
+<img src="DONATIONPAGE.png">
+Merch page<br>
+Users can buy our merch after logging in to our website. If not an error will occur. <br>
+<img src="MERCH.png">
+User Donation page<br>
+Users can make their donation after logging in to our website. If not an error will occur. <br>
+<img src="USERDONATION.png">
+News page<br>
+This page will tell the users about the latest news in the futsal community. <br>
+<img src="NEWS.png">
+Match page<br>
+It contains the matches that will be held on a specific date. <br>
+<img src="MATCH.png">
+Player page<br>
+The users can see the IIUM Players that represent the futsal team and their brief descriptions. <br>
+<img src="PLAYERPAGE.png">
+Admin page<br>
+A page that is only accessible by the admin. On this page, the admin can add, modify, and delete the contents of the website. <br>
+<img src="ADMIN.png">
+Edit and delete function<br>
+For example, this all-player page has the function to edit and delete the players that are in the database. it goes the same for others such as donations, news, merchandise, and matches. <br>
+<img src="EDITANDDELETE.png">
 
 <strong>What is the challenge/difficulties to develop the application</strong> <br>
 1. Testing:
